@@ -48,3 +48,12 @@ display: inline-flex;
   margin-right: 5%;
   margin-top: 0;
 }
+
+.portrait {
+  width: 25%;
+  float: right;
+}
+
+.banner {
+  height: 50%;
+}
