@@ -6,6 +6,45 @@ img {
   width: 100%;
 }
 
-.profile {
-  
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+body {
+  background-color: lightblue;
+}
+
+main {
+  background-color: #FFF;
+}
+
+#search-bar {
+  position: relative;
+  top: 0;
+  left: 80%;
+}
+
+.search-button {
+  display: inline-flex;
+  position: relative;
+  top: 0;
+  left: 80%;
+}
+
+.top-nav {
+display: inline-flex;
+}
+
+.nav-links {
+  position: relative;
+  display: inline-flex;
+  top: 0;
+  justify-content: center;
+}
+
+.nav-links > * {
+  position: relative;
+  margin-right: 5%;
+  margin-top: 0;
 }
