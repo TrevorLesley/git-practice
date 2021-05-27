@@ -49,11 +49,19 @@ display: inline-flex;
   margin-top: 0;
 }
 
-.portrait {
-  width: 25%;
-  float: right;
+.profile {
+  border: 1px solid black;
+  height: 40%;
+  width: 30%;
 }
 
-.banner {
-  height: 50%;
+.portrait {
+  height: 80%;
+  width: 80%;
+  margin: auto;
 }
+
+.bio {
+  border: 5px dotted purple;
+}
+>>>>>>> bd45ce3 (customized profile box)
